@@ -1,4 +1,4 @@
 # vishalwork-demo
 This is my first Git Repository.
 <br>
-Author- vishal patel
+Author- vishal patel (Gayatri)
